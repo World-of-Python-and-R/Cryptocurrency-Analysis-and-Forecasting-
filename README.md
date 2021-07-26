@@ -16,27 +16,27 @@ category8 = 'USDC-USD' #  USD coin <br/>
 category9 = 'DOGE-USD' # Doge coin <br/>
 category10 = 'DOT1-USD' # Polka Dot coin <br/>
 
-Every time when the user will access the below mentioned link, the updated recent real time data will be downloaded via API of Yahoo finance. DataSet contains five features which are as follows:
+Every time when the user will access the below mentioned link, the updated recent real time data will be downloaded via API of Yahoo finance. DataSet contains five features which are as follows: <br/>
 
-open = starting price on the openeing day 
-high  = highest price attained on the same day 
-Low = lowest price attained on the same day 
-Close = closing price on the same day 
-Adj close  = splitting phenomenon # adjusted close 
-volume  = total number coins available in the market on the same day 
+open = starting price on the openeing day  <br/>
+high  = highest price attained on the same day <br/>
+Low = lowest price attained on the same day <br/>
+Close = closing price on the same day <br/>
+Adj close  = splitting phenomenon # adjusted close <br/>
+volume  = total number coins available in the market on the same day <br/>
 
-This project is developed by, 
+This project is developed by, <br/>
 
-# Ayushmaan Dev Verma,
-Final Year Undergraduate,
-Mathematics Department, IIT Bombay 
-
+# Ayushmaan Dev Verma,<br/>
+Final Year Undergraduate,<br/>
+Mathematics Department, IIT Bombay <br/>
+<br/>
 and 
+<br/>
+# Dipanshu Sharma,<br/>
+Final Year Undergraduate,<br/>
+Mathematics Department, IIT Bombay <br/>
+<br/>
 
-# Dipanshu Sharma,
-Final Year Undergraduate,
-Mathematics Department, IIT Bombay 
-
-
-
+<br/>
 Visit the following url to see, visulalize and forecast the trends and forecasts, https://ayushdv.shinyapps.io/crypto_project/
