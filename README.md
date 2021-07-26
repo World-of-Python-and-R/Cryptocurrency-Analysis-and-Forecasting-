@@ -5,8 +5,8 @@ The success of bitcoin, measured by its rapid market capitalization growth and p
 
 This project is developed by, 
 
-Ayushmaan Dev Verma 
-Final Year Undergraduate 
+Ayushmaan Dev Verma
+Final Year Undergraduate
 Mathematics Department, IIT Bombay 
 
 and 
