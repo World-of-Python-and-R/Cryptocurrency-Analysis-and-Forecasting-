@@ -18,24 +18,22 @@ category8 = 'USDC-USD' #  USD coin
 category9 = 'DOGE-USD' # Doge coin 
 category10 = 'DOT1-USD' # Polka Dot coin 
 
-Every time when the user will access the below mentioned link, the updated recent real time data will be downloaded via API of Yahoo finance. DataSet contains five features which are as follows:
-
-# open = starting price on the openeing day 
-# high  = highest price attained on the same day 
-# Low = lowest price attained on the same day 
-# Close = closing price on the same day 
-# Adj close  = splitting phenomenon # adjusted close 
-# volume  = total number coins available in the market on the same day 
+Every time when the user will access the below mentioned link, the updated recent real time data will be downloaded via API of Yahoo finance. DataSet contains five features which are as follows:open = starting price on the openeing day 
+high  = highest price attained on the same day 
+Low = lowest price attained on the same day 
+Close = closing price on the same day 
+Adj close  = splitting phenomenon # adjusted close 
+volume  = total number coins available in the market on the same day 
 
 This project is developed by, 
 
-Ayushmaan Dev Verma,
+# Ayushmaan Dev Verma,
 Final Year Undergraduate,
 Mathematics Department, IIT Bombay 
 
 and 
 
-Dipanshu Sharma,
+# Dipanshu Sharma,
 Final Year Undergraduate,
 Mathematics Department, IIT Bombay 
 
