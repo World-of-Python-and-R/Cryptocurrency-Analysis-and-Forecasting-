@@ -32,7 +32,7 @@ Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
 https://www.linkedin.com/in/dipanshu-sharma-523921176 <br/>
 
-# Ayushman Dev Verma 
+# Ayushmaan Dev Verma 
 Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
 https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170 <br/>
