@@ -38,4 +38,4 @@ Mathematics Department IIT Bombay <br/>
 [LinkedIn](https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170) <br/>
 
 <br/>
-Visit the following website to see, visulalize and forecast the trends and forecasts: [web](https://ayushdv.shinyapps.io/crypto_project/)
+Visit the following website to see, visulalize and forecast the trends and forecasts: https://ayushdv.shinyapps.io/crypto_project/
