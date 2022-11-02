@@ -13,7 +13,7 @@ In this project we worked upon the analysis of following 10 major Cryptocurrenci
 7. 'XRP-USD' # XRP Coin <br/>
 8. 'USDC-USD' #  USD coin <br/>
 9. 'DOGE-USD' # Doge coin <br/>
-10. 'DOT1-USD' # Polka Dot coin <br/>
+10. 'DOT-USD' # Polka Dot coin <br/>
 
 Every time when the user will access the below mentioned link, the updated real-time data will be downloaded via the API of Yahoo finance. Dataset contains five features which are as follows: <br/>
 
